@@ -16,7 +16,6 @@ import androidx.appcompat.app.AppCompatActivity;
 
 
 public class MainActivity2 extends AppCompatActivity {
-
     Button button, button1, btn;
 
 
