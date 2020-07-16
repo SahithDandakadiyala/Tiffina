@@ -19,13 +19,6 @@ public class MainActivity2 extends AppCompatActivity {
 
     Button button, button1, btn;
 
-    @Override
-    public void onBackPressed() {
-        super.onBackPressed();
-
-        finishAffinity();
-
-    }
 
 
     @Override
